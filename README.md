@@ -30,9 +30,7 @@ This project can be run using Docker, making it compatible with any system that 
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   # or
-   cd <repository-folder>
+   git clone https://github.com/rkhaya/fetchjob
    ```
 
 2. **Build the Docker Image**
