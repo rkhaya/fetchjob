@@ -7,10 +7,6 @@ A RESTful API built to process receipts and calculate points based on specific b
 - [Overview](#overview)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [API Endpoints](#api-endpoints)
-- [Points Calculation Rules](#points-calculation-rules)
-- [Examples](#examples)
-- [Testing](#testing)
 
 ## Overview
 
